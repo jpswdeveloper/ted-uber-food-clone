@@ -1,0 +1,1 @@
+export const Base_Url = 'https://tedo-uber-api.herokuapp.com/api/v1/'
